@@ -1,0 +1,14 @@
+import 'package:flutter/cupertino.dart';
+import 'package:get/get.dart';
+import 'package:get/get_state_manager/src/simple/get_controllers.dart';
+
+class LoginPhoneController extends GetxController {
+  final phoneController = TextEditingController(text: '');
+  final phoneFocusNode = FocusNode();
+  var loading = false.obs;
+
+  @override
+  void onInit() {
+    super.onInit();
+  }
+}

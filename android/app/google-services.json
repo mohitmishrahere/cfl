@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352842620285",
+    "project_id": "cfl-application",
+    "storage_bucket": "cfl-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352842620285:android:4f1c3b0cd6b15738640014",
+        "android_client_info": {
+          "package_name": "com.app.cfl.cfl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwDWKtc8DlsS0eYyHHZeY-QVqSJ9ff8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

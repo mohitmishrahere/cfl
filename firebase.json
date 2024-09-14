@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"cfl-application","appId":"1:352842620285:android:4f1c3b0cd6b15738640014","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"cfl-application","configurations":{"android":"1:352842620285:android:4f1c3b0cd6b15738640014","ios":"1:352842620285:ios:44c7076a8e86120d640014"}}}}}}
