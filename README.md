@@ -1,6 +1,6 @@
-# cfl
+# CFL - Capital Fast Loan
 
-A new Flutter project.
+This is a Flutter Project For A Loan Lending Application.
 
 ## Getting Started
 
